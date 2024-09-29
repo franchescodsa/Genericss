@@ -8,7 +8,9 @@ import java.util.Scanner;
 import model.entities.CarRental;
 import model.entities.Vehicle;
 import model.service.BrazilTaxService;
+
 import model.service.RentalService;
+import model.service.TaxService;
 
 public class Program {
 
